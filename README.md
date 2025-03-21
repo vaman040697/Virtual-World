@@ -2,7 +2,7 @@
 Virtual World created by Radu from Finland as part of his Self-driving Car JavaScript course.. This version includes interactive graph editing, road and building generation, and fake 3D rendering. Uploaded for learning and exploration purposes. Original author and sources credited below.
 # 🌍 Virtual World (Recreated) – Phase 2 of Self-driving Car JS Course
 
-This project is a **reconstructed version** of the "Virtual World" application by **Radu from Finland**, built during **Phase 2** of his JavaScript-based self-driving car course.
+This project is a **reconstructed version** of the "Virtual World" application by **Radu from Finland**, of his JavaScript-based self-driving car course.
 
 ⚠️ **Disclaimer**:  
 This version was manually recreated by inspecting the frontend code of the live app. It is shared here **strictly for educational and non-commercial purposes**. All rights to the original work belong to the original author.
